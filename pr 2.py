@@ -1,0 +1,7 @@
+c=str(input("intoduceti sir de caractere: "))
+if i=(chr(65<=91))
+print( i)
+if m=(chr(48<=57))
+print (m)
+if n=((chr(33<=47 and 58<=64 and 91<=96 and 123<=127))
+print(n)

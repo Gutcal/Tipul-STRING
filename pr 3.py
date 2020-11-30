@@ -1,0 +1,5 @@
+c=str(input("intoduceti cuvanut: "))
+a=str(input("intoduceti cuvanut: "))
+s=str(input("intoduceti cuvanut: "))
+b=str(input("intoduceti cuvanut: "))
+print(c+" "+a+" "+str(s)+" "+b+chr(46))
